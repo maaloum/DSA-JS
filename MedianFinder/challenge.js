@@ -8,7 +8,8 @@ var MedianFinder = function() {
  * @return {void}
  */
 MedianFinder.prototype.addNum = function(num) {
-    thi.nums.push(num);
+    // thi.nums.push(num);
+    
 };
 
 /**
